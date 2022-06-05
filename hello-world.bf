@@ -1,0 +1,12 @@
+>++++++++[<+++++++++>-]<.           prints 'H'
+>++++[<+++++++>-]<+.                prints 'e'
++++++++..                           prints 'll'
++++.                                prints 'o'
+>>++++++[<+++++++>-]<++.            prints comma
+------------.                       prints space
+>++++++[<+++++++++>-]<+.            prints 'W'
+<.                                  prints 'o'
++++.                                prints 'r'
+------.                             prints 'l'
+--------.                           prints 'd'
+>>>++++[<++++++++>-]<+.             prints '!'
