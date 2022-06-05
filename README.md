@@ -1,4 +1,4 @@
-# BrainFry-rs
+# brainfry-rs
 
 My Brainfuck interpreter re-written in Rust as a learning practice. I wanted to
 learn Rust given now I'm a C++ developer, this is relevant to my career,
