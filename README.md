@@ -47,7 +47,11 @@ type
 
 And use 
 
-    brainfry-rs <filename> [--debug]
+    ./target/debug/brainfry-rs <filename> [--debug]
+
+Or build and run directly
+
+    cargo run <filename> [--debug]
 
 You can use `--debug` to see the state of memory tape after execution.
 
